@@ -1,0 +1,17 @@
+c:\users\jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.Login.resources
+c:\users\jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.Properties.Resources.resources
+c:\users\jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.csproj.GenerateResource.cache
+c:\users\jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.csproj.CoreCompileInputs.cache
+c:\users\jimboo\source\repos\IMailAccess\IMailAccess\bin\Debug\IMailAccess.exe.config
+c:\users\jimboo\source\repos\IMailAccess\IMailAccess\bin\Debug\IMailAccess.exe
+c:\users\jimboo\source\repos\IMailAccess\IMailAccess\bin\Debug\IMailAccess.pdb
+c:\users\jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.exe
+c:\users\jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.pdb
+C:\Users\Jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.csprojAssemblyReference.cache
+C:\Users\Jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.Indicator.resources
+C:\Users\Jimboo\source\repos\IMailAccess\IMailAccess\bin\Debug\DateTimeSelector.dll
+C:\Users\Jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.csproj.CopyComplete
+C:\Users\Jimboo\source\repos\IMailAccess\IMailAccess\bin\Debug\IMailAccess.exe.manifest
+C:\Users\Jimboo\source\repos\IMailAccess\IMailAccess\bin\Debug\IMailAccess.application
+C:\Users\Jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.exe.manifest
+C:\Users\Jimboo\source\repos\IMailAccess\IMailAccess\obj\Debug\IMailAccess.application
