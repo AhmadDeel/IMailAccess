@@ -1,6 +1,6 @@
 # IMailAccess
 
-## simple mail organizer line Indicator Notebook.
+## Simple mail organizer (Indicator Notebook like).
 
 ## Features
 
